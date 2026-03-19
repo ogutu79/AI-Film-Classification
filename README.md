@@ -1,6 +1,5 @@
 AI Pre-Screening & Classification System
 
-  Overview
 The KFCB AI Pre-Screening System is a web-based application that automatically analyzes video content and provides content safety insights and age classification recommendations.
 
 The system uses computer vision and lightweight AI techniques to detect potentially unsafe content such as:
