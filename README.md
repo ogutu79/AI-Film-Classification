@@ -36,3 +36,17 @@ Frame-by-frame sampling (~1 frame per second)
 Skin detection (nudity estimation)
 
 Red color detection (violence indicator)
+
+Create Virtual Environment
+python -m venv venv
+venv\Scripts\activate   # Windows
+
+Install Dependencies
+pip install -r requirements.txt
+
+Run Server
+python -m uvicorn app.main:app --reload --port 8000
+
+Open in browser
+http://localhost:8000
+
