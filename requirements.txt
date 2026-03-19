@@ -1,0 +1,14 @@
+fastapi==0.95.1
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+aiofiles==0.8.1
+pydantic==1.10.8
+opencv-python-headless==4.8.0.78
+ultralytics==8.0.134
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.35.0
+sentencepiece==0.1.99
+whisper==1.0
+ffmpeg-python==0.2.1
+numpy==1.26.0

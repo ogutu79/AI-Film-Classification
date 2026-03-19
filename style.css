@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f5f7fa;
+}
+header {
+  background: #004d99;
+  color: white;
+  padding: 10px;
+}
+header h1 {
+  margin: 0;
+}
+nav a {
+  color: #fff;
+  margin-right: 10px;
+  text-decoration: none;
+}
+main {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+button {
+  background: #004d99;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+}
+button:hover {
+  background: #0066cc;
+}
